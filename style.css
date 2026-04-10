@@ -9,10 +9,10 @@ body {
   display:flex;
  justify-content: space-between;
  align-items: center;
- text-align: left;
 }
 
 .liste_DL p{
+ text-align: left;
  gap:20px;
 }
 
