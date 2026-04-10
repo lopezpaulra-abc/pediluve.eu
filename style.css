@@ -7,5 +7,9 @@ body {
  }
 
 .liste_DL {
-  text-align: center;
+  text-align: left;
+}
+
+.image_Taylor{
+ text-align: right;
 }
