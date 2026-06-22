@@ -20,5 +20,5 @@ body {
 .list_DL img{
  float: left
  height: 100px;
- max-width:auto;
+ width:auto;
 }
