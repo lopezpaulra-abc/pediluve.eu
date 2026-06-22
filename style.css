@@ -21,4 +21,6 @@ body {
 .list_DL img{
  height: 100px;
  width:auto;
+ display: block;
+ margin: auto;
 }
